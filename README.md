@@ -3,4 +3,4 @@ Complete Backend with User Auth with Mongo DB made on Node JS with Express JS on
 ## Features 
 1-> Sort Products by different Parameters  
 2-> Filter Products   
-3-> Paginate Products   
+3-> Paginate Products     
